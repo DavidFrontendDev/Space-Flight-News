@@ -1,8 +1,6 @@
-export async function News() {
+export async function News(url) {
   try {
-    const data = await fetch(
-      "https://api.spaceflightnewsapi.net/v4/articles/?format=json"
-    );
+    const data = await fetch(url);
     const dataJson = await data.json();
     return dataJson;
   } catch (e) {
