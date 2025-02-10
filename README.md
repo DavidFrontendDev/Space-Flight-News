@@ -1,8 +1,27 @@
-# React + Vite
+# [🚀 SpaceFlights News]()
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Consumo de API de noticias sobre vuelos Espaciales.
+- Mostrar todas las noticias por pagina ( 10 max ).
+- Grid que sea responsive.
+- Uso de hooks ( useState, useEffect, useRef ).
 
-Currently, two official plugins are available:
+## Extras (Opcional):
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Agregar paginación para cargar más artículos.
+- Incluir un campo de búsqueda para filtrar los artículos por título.
+
+# Pseudocódigo
+
+![Imagen](https://i.imgur.com/NzFzUFd.png)
+
+# Escritorio
+
+[![Imagen]()]()
+
+# Tablet
+
+[![Imagen]()]()
+
+# Movil
+
+[![Imagen]()]()
